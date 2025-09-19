@@ -1,0 +1,240 @@
+{"restore_payload_version":"Unknown","restore_type":"OTAUpdate","os_version":"22E252","itunes_version":"22E252","bug_type":"183","restore_error":"812","name":"iPhoneRestore"}
+16dcfb000 : Sending load complete without error
+16df2b000 : Client ASPCarryLog[544] does not have the 'com.apple.private.softwareupdated-helpers' entitlement
+16df2b000 : Purge update service connection handler: <dictionary: 0x2709b94b0> { count = 1, transaction: 0, voucher = 0x0, contents =
+	"XPCErrorDescription" => <string: 0x2709b9630> { length = 22, contents = "Connection interrupted" }
+}
+1f0a1c700 : MSU running in normal env
+1f0a1c700 : initializing new event recorder with options: (null)
+1f0a1c700 : start
+1f0a1c700 : Using NVRAM dictionary from IODeviceTree since there is no key for ota-uuid in there
+
+1f0a1c700 : Permanent update volume present..supportDir will be placed there
+1f0a1c700 : -[UMEventRecorder _supportDirectoryWithMountPoint:]: mountPoint is nil...Using /var/MobileSoftwareUpdate as the mountPoint
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with systemMountPoint: (null)
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with dataMountPoint: (null)
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with updateMountPoint: (null)
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with nvramPath: (null)
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with targetOSVersion: 22F76
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with context: (null)
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with baseServerURL: https://xp.apple.com/report
+1f0a1c700 : <UMEventRecorder: 0x105003a70>: initializing event recorder with uuidXXXX>>>>>>-43C9-40EF-A1A1XXXX>>>>>F827
+1f0a1c700 : MSU running in normal env
+1f0a1c700 : Attempting to gather analytics data for phase : UpdateFinished
+1f0a1c700 : add_persistent_target_volume_metrics: nothing to do.
+1f0a1c700 : Additional analytics data is {
+}
+1f0a1c700 : InstallInProgressAfterApply is false
+
+1f0a1c700 : ignoring call to recordPostUpdateEvent when no install is in progress or we haven't performed the apply operation
+1f0a1c700 : initializing new submission queue
+1f0a1c700 : MSU running in normal env
+16b26f000 : submitEventsInBackground running
+16b26f000 : -[UMEventRecorder _supportDirectoryWithMountPoint:]: mountPoint is nil...Using /var/MobileSoftwareUpdate as the mountPoint
+1f0a1c700 : is_first_boot_after_update: is first boot: NO
+1f0a1c700 : retrieve_previous_update_state: found previous update state MSUPreviousUpdateState=1
+1f0a1c700 : is_first_boot_after_update: is first boot: NO
+16b26f000 : -[UMEventRecorder submitEventsInBackground:withOptions:]_block_invoke: Previously submitted events will NOT BE resubmitted
+
+16b26f000 : Found 2 unsubmitted events in update volume
+16b26f000 : posting to https://xp.apple.com/report/2/psr_ota length = 1221
+16b26f000 : data = {"clientId":"D5F1C51A-40D9-4D81-B74AXXXX>>>>>F702","events":[{"installTonight":"[LEGACY]false,autoOn,enabled,bg,toggleAIOn,toggleADOn,toggleAISDFOn,toggleAIRSROn","deviceClass":"iPad","context":"SUS-2.0","snapshotApplySize":400,"storageCapacity":244140,"systemFsCapacity":8996,"targetOSVersion":"22F76","currentOSVersion":"22E252","eapfsMode":"YES","rapidSecurityResponseInstalled":"false","dataFsCapacity":235127,"currentOSType":"user","reportVersion":1,"type":"ota","event":"brainLoad","nonSnapshotApplySize":400,"UUID":"362908F3-EB80-4669-99E2XXXX>>>>>6D1F","eventTime":"1748595413342","snapshotPrepareSize":2905,"failureReason":"MSU 812 (Failed to download catalog, MADownloadResult:MADownloadDaemonNotReady);com.apple.MobileAssetError.Download 13 (Download is not allowed as mobileassetd was starting up. (Catalog download for com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain));","systemFsFree":0,"snapshotUpdate":"true","uptime":25,"batteryLevel":93,"batteryIsCharging":false,"deviceModel":"J271AP","controllerVersion":"SUS-2.0","result":"MSU 812","currentBaseOSVersion":"22E252","currentProductVersionExtra":"unknown","MobileAssetAssetAudience":"DefaultAssetAudienceForReleaseTypeuser","dataFsFree":195851}]}
+16b26f000 : UMEventSubmitter: -[UMEventSubmitter _defaultSession]: Setting waitsForConnectivity to true for splunk eventSubmission..
+
+16b26f000 : posting to https://xp.apple.com/report/2/psr_ota length = 1231
+16b26f000 : data = {"clientId":"215D9D60-43C9-40EF-A1A1XXXX>>>>>F827","events":[{"installTonight":"[LEGACY]false,autoOn,enabled,bg,toggleAIOn,toggleADOn,toggleAISDFOn,toggleAIRSROn","deviceClass":"iPad","context":"SUS-2.0","snapshotApplySize":400,"storageCapacity":244140,"systemFsCapacity":8996,"targetOSVersion":"22F76","currentOSVersion":"22E252","eapfsMode":"YES","rapidSecurityResponseInstalled":"false","dataFsCapacity":235127,"currentOSType":"user","reportVersion":1,"type":"ota","event":"brainLoad","nonSnapshotApplySize":400,"UUID":"362908F3-EB80-4669-99E2XXXX>>>>>6D1F","eventTime":"1749192065058","snapshotPrepareSize":2905,"failureReason":"MSU 812 (Failed to download catalog, MADownloadResult:MADownloadNotConnectedToInternet);com.apple.MobileAssetError.Download 65 (Download failed due to there being no Internet connection. (Catalog download for com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain));","systemFsFree":0,"snapshotUpdate":"true","uptime":29,"batteryLevel":80,"batteryIsCharging":false,"deviceModel":"J271AP","controllerVersion":"SUS-2.0","result":"MSU 812","currentBaseOSVersion":"22E252","currentProductVersionExtra":"unknown","MobileAssetAssetAudience":"DefaultAssetAudienceForReleaseTypeuser","dataFsFree":195837}]}
+16b26f000 : UMEventSubmitter: -[UMEventSubmitter _defaultSession]: Setting waitsForConnectivity to true for splunk eventSubmission..
+
+1f0a1c700 : currentOSType indicated as nil. Overriding it to be BootedOSReleaseTypeUnknown
+1f0a1c700 : Pallas is enabled
+1f0a1c700 : SU configuration:
+ Asset Audience XXXX>>>>>>-6e8f-4908-b724XXXX>>>>>5e5c
+ SU Asset URL: https://mesu.apple.com/assets/
+ Brain URL: https://mesu.apple.com/assets/
+ Documentation URL: https://mesu.apple.com/assets/
+ WatchDocumentation URL: https://mesu.apple.com/assets/
+1f0a1c700 : Dictionary is {
+    BootedOSAssetAudience = "01c1d682-6e8f-4908-b724XXXX>>>>>5e5c";
+    BootedOSBrainURL = "https://mesu.apple.com/assets/";
+    BootedOSDocumentationURL = "https://mesu.apple.com/assets/";
+    BootedOSLanguage = en;
+    BootedOSProductVersion = "18.4.1";
+    BootedOSSUAssetURL = "https://mesu.apple.com/assets/";
+    BootedOSType = BootedOSReleaseTypeUnknown;
+    BootedOSVersion = 22E252;
+    BootedOSWatchDocumentationURL = "https://mesu.apple.com/assets/";
+}
+1f0a1c700 : Saving env data to /private/var/MobileSoftwareUpdate//Controller/NeRD/BootedOSState.plist
+1f0a1c700 : Updating file permissions
+1f0a1c700 : fixup_permissions_for_bootedos_state_file: Successfully fixed up permissions for /private/var/MobileSoftwareUpdate//Controller/NeRD/BootedOSState.plist
+16b387000 : Client softwareupdateservicesd[304] does not have the 'com.apple.private.softwareupdated-helpers' entitlement
+16b2fb000 : retrieve_previous_update_state: found previous update state MSUPreviousUpdateState=1
+16b2fb000 : Client softwareupdateservicesd[304] does not have the 'com.apple.private.softwareupdated-helpers' entitlement
+16b387000 : The secure object length value is: 1439
+16b387000 : Caller has pased in downloadOptions: MADownloadOptions allowsCellular: 1 resourceTimeout: -1 canUseCacheServer: 0 discretionary: 0 disableUI: 0 sessionId: (null) additionalServerParams:{ } allowsExpensiveAccess:1 requiresPowerPluggedIn: 0 prefersInfraWiFi: 1 liveServerOnly: 0 DownloadAuthorizationHeader: not present analyticsData: not present allowDaemonConnectionRetries: 0  + MAMsuDownloadOptions reqProdVersion: (null) delayPeriod: 0 managedDevice: 0 allowSameVersion: 0 prereqBuild: (null) prereqVersion: (null) prereqReleaseType: (default) liveAssetAudienceUUID: (null) purpose: (null)
+16b387000 : The attributes are: {
+    ActualMinimumSystemPartition = 6549;
+    ArchiveDecryptionKey = "9aGfjZJ3NMn8ZAd58SLzkXzVTvbJx1AGHQCgo9rvOHg=";
+    ArchiveID = "MOHx1rPq3tvpnGk6FucI8AMA9YQJ53Ho08xWxwnNapc=";
+    AssetFormat = AppleEncryptedArchive;
+    AssetType = "com.apple.MobileAsset.SoftwareUpdate";
+    AutoUpdate = 1;
+    Build = 22F76;
+    CryptexSizeInfo =     (
+                {
+            CryptexSize = 16;
+            CryptexSizeDelta = 33;
+            CryptexTag = "cryptex-app";
+        },
+                {
+            CryptexSize = 4064;
+            CryptexSizeDelta = 73;
+            CryptexTag = "cryptex-system-arm64e";
+        }
+    );
+    DisablePreSoftwareUpdateAssetStaging = 1;
+    EAPFSEnabled = 1;
+    InstallationSize = 180719616;
+    "InstallationSize-Snapshot" = 2659499494;
+    MinimumSystemPartition = 0;
+    OSVersion = "18.5";
+    PrerequisiteBuild = 22E252;
+    PrerequisiteOSVersion = "18.4.1";
+    RSEPDigest = {length = 48, bytes = 0x6bcb85ed 16475f98 55308970 a0636844 ... 8fd88b95 5a67ce4d };
+    RSEPTBMDigests = "mJ2atVEHD+fMyZw5fsBirQofrRQpJjKIbMbqa4CxWtYFLh7L2bTkHUnl54SIT+sU\nIuVPO4zq5nseBfnBG+shlzkNOpaUU3v6w0ShFltB+ce0oxXN1oKkftPZo/hh5QXc\nz6NuZK9ltIMQmH/tCOeVKTyHLhKmMstc6YKUeZjScGCFMMLkClCtssIFwiC1oEFw\niNlQRQrHyWe5gzIk6KqKoYWDVvf2oR6g+zjdMEORuWUyJBi5yL6PkKHTccw1oQ/z\nZ2sapQ2JJ+rP9Cyt08NniGKOh9DO88N56EHaf7j7UvtK4Tae8lHNp7DR4aMcbG1a";
+    Ramp = 0;
+    RescueMinimumSystemPartition = 6861;
+    RestoreVersion = "22.6.76.0.0,0";
+    RestoreVersionInfo =     {
+        RestoreBuildGroup = 0;
+        RestoreLongVersion = "22.6.76.0.0,0";
+        RestoreVersion = "22.6.76.0.0";
+    };
+    SEPDigest = {length = 48, bytes = 0x980497a2 8142b1a3 2af6fbc8 4fa4bec8 ... e92e679a 7023f23b };
+    SEPTBMDigests = "OUOOHym/MeYXMkzCcg59ggIS+qootv9Dr3jc1rMsD1XUXbmFwxBqOd2Su1H57Olv\n85mivawwFw5WnVzRuFguZ9iWLf9ZAaLAhldM9Hjdp+KTg2kIZhz1raLv9M0Uv64D\nWopxHr5W6daXcBSw+TkveZv7tOS3GvV+ssZYSlPziJVI3tXzk3TBe+xuL7guy3Bc\nco9TgSczcCtdoHsegr0d26iEO336nr34OuU3HvDzrrTsbCj7C5ZMUw0awnS05qHX\nhJdnvDLgCBM/ciTdzr9ocknJ/G/hJ+NuiRdXPEV1fxw6M5Yb89XBovJSyRteReMT";
+    SUConvReqd = 1;
+    SUDocumentationID = iPadOS185Short;
+    SUInstallTonightEnabled = 1;
+    SUMultiPassEnabled = 1;
+    SUProductSystemName = iOS;
+    SUPublisher = "Apple Inc.";
+    SupportedDeviceModels =     (
+        J271AP
+    );
+    SupportedDevices =     (
+        "iPad13,18"
+    );
+    SystemPartitionPadding =     {
+        1024 = 1280;
+        128 = 1280;
+        16 = 160;
+        256 = 1280;
+        32 = 320;
+        512 = 1280;
+        64 = 640;
+        768 = 1280;
+        8 = 80;
+    };
+    SystemVolumeSealingOverhead = 193;
+    TrainName = CrystalF;
+    "_CompressionAlgorithm" = aea;
+    "_DownloadSize" = 1275068416;
+    "_EventRecordingServiceURL" = "https://xp.apple.com/report";
+    "_IsEncrypted" = 1;
+    "_IsZipStreamable" = 1;
+    "_MasteredVersion" = 76;
+    "_Measurement" = {length = 20, bytes = 0x<<<<<<<<<<<<<<<<<<UDID>>>>>>>>>>>>>>>>>>};
+    "_Measurement-SHA256" = {length = 32, bytes = 0x984e9799 b08ac89b a5be2a8a 2d0bab4d ... f6fcfc22 89af57f9 };
+    "_MeasurementAlgorithm" = "SHA-1";
+    "_UnarchivedSize" = 1407774720;
+    "__AssetDefaultGarbageCollectionBehavior" = NeverCollected;
+    "__BaseURL" = "https://updates.cdn-apple.com/2025SpringFCS/mobileassets/082-45924/BC81B4E6-D0D9-41A7-8008XXXX>>>>>F6F9/";
+    "__CanUseLocalCacheServer" = 1;
+    "__FCSKeyURL" = "https://wkms-public.apple.com/fcs-keys/FhzC7FVd5SB_MeIU_R8b3WJlND3VRI5QVFz03IzctGI=";
+    "__FCSResponse" = "{\"enc-request\": \"BFsAYeLn0YLQKghvFP+PV9liBoYohjcV5j6DZaDwnAo+kXR+CcmCkcuAz4gGkFfwuCz1jG5FcYmaqftZMLR7iCs=\", \"wrapped-key\": \"Eb+P7tVPEkbna6/nyTY3xqZglKy04Zzt7dNDvNKXihhCz4UdvSK1K+mA+vPAY2jO\"}";
+    "__HideInstallAlert" = 0;
+    "__RelativePath" = "com_apple_MobileAsset_SoftwareUpdate/<<<<<<<<<<<<<<<<<<UDID>>>>>>>>>>>>>>>>>><<<<<<<<ICCID>>>>>>>6a97.aea";
+}
+16b2fb000 : MobileSoftwareUpdateErrorDomain error 812 - Failed to download catalog, MADownloadResult:MADownloadDaemonNotReady
+16b2fb000 : Setting targetBrainVersion to (null)
+16b2fb000 : Failed to install update brain: Error Domain=MobileSoftwareUpdateErrorDomain Code=812 "Failed to download catalog, MADownloadResult:MADownloadDaemonNotReady" UserInfo={NSLocalizedDescription=Failed to download catalog, MADownloadResult:MADownloadDaemonNotReady, NSUnderlyingError=0xd54032820 {Error Domain=com.apple.MobileAssetError.Download Code=13 "Download is not allowed as mobileassetd was starting up. (Catalog download for com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain)" UserInfo={NSLocalizedDescription=Download is not allowed as mobileassetd was starting up. (Catalog download for com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain), retryWithBackoff=true}}}
+16b2fb000 : Permanent update volume present..supportDir will be placed there
+16b2fb000 : -[UMEventRecorder _supportDirectoryWithMountPoint:]: mountPoint is nil...Using /var/MobileSoftwareUpdate as the mountPoint
+16b2fb000 : generated a new uuid string 0FF7DB80-E9FB-4732-89C3XXXX>>>>>DA9F
+16b2fb000 : setting uuid in startRecordingInstall to 0FF7DB80-E9FB-4732-89C3XXXX>>>>>DA9F
+16b2fb000 : Permanent update volume present..supportDir will be placed there
+16b2fb000 : -[UMEventRecorder _supportDirectoryWithMountPoint:]: mountPoint is nil...Using /var/MobileSoftwareUpdate as the mountPoint
+16b2fb000 : Permanent update volume present..supportDir will be placed there
+16b2fb000 : -[UMEventRecorder _supportDirectoryWithMountPoint:]: mountPoint is nil...Using /var/MobileSoftwareUpdate as the mountPoint
+16b2fb000 : Unable to determine asset audience from defaults. Assuming default audience for build in use
+16b2fb000 : [-[UMEventRecorder _recordEvent:getPowerLog:information:callback:]] (brainLoad) - {
+    MobileAssetAssetAudience = DefaultAssetAudienceForReleaseTypeuser;
+    UUID = "362908F3-EB80-4669-99E2XXXX>>>>>6D1F";
+    batteryIsCharging = 1;
+    batteryLevel = 1;
+    context = "SUS-2.0";
+    controllerVersion = "SUS-2.0";
+    currentBaseOSVersion = 22E252;
+    currentOSType = user;
+    currentOSVersion = 22E252;
+    currentProductVersionExtra = unknown;
+    dataFsCapacity = 235127;
+    dataFsFree = 201847;
+    deviceClass = iPad;
+    deviceModel = J271AP;
+    eapfsMode = YES;
+    event = brainLoad;
+    eventTime = 1749230953125;
+    failureReason = "MSU 812 (Failed to download catalog, MADownloadResult:MADownloadDaemonNotReady);com.apple.MobileAssetError.Download 13 (Download is not allowed as mobileassetd was starting up. (Catalog download for com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain));";
+    installTonight = "[LEGACY]false,autoOn,enabled,bg,toggleAIOn,toggleADOn,toggleAISDFOn,toggleAIRSROn";
+    nonSnapshotApplySize = 400;
+    rapidSecurityResponseInstalled = false;
+    reportVersion = 1;
+    result = "MSU 812";
+    snapshotApplySize = 400;
+    snapshotPrepareSize = 2905;
+    snapshotUpdate = true;
+    storageCapacity = 244140;
+    systemFsCapacity = 8996;
+    systemFsFree = 0;
+    targetOSVersion = 22F76;
+    type = ota;
+    uptime = 25;
+}
+
+16b2fb000 : -[UMEventRecorder _supportDirectoryWithMountPoint:]: mountPoint is nil...Using /var/MobileSoftwareUpdate as the mountPoint
+16b2fb000 : Sending event to PowerLog: {
+    MobileAssetAssetAudience = DefaultAssetAudienceForReleaseTypeuser;
+    RequestUUID = "4BBBD2AD-2BF7-44F2-9252XXXX>>>>>D94F";
+    UUID = "362908F3-EB80-4669-99E2XXXX>>>>>6D1F";
+    batteryIsCharging = 1;
+    batteryLevel = 1;
+    context = "SUS-2.0";
+    controllerVersion = "SUS-2.0";
+    currentBaseOSVersion = 22E252;
+    currentOSType = user;
+    currentOSVersion = 22E252;
+    currentProductVersionExtra = unknown;
+    dataFsCapacity = 235127;
+    dataFsFree = 201847;
+    deviceClass = iPad;
+    deviceModel = J271AP;
+    eapfsMode = YES;
+    event = 100;
+    eventTime = 1749230953125;
+    failureReason = "MSU 812 (Failed to download catalog, MADownloadResult:MADownloadDaemonNotReady);com.apple.MobileAssetError.Download 13 (Download is not allowed as mobileassetd was starting up. (Catalog download for com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain));";
+    installTonight = "[LEGACY]false,autoOn,enabled,bg,toggleAIOn,toggleADOn,toggleAISDFOn,toggleAIRSROn";
+    nonSnapshotApplySize = 400;
+    rapidSecurityResponseInstalled = false;
+    reportVersion = 1;
+    result = "MSU 812";
+    snapshotApplySize = 400;
+    snapshotPrepareSize = 2905;
+    snapshotUpdate = true;
+    storageCapacity = 244140;
+    systemFsCapacity = 8996;
+    systemFsFree = 0;
+    targetOSVersion = 22F76;
+    type = ota;
+    uptime = 25;
+}

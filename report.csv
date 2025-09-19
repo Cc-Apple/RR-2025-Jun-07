@@ -1,0 +1,7 @@
+Section,Content
+"総合解析レポート（Template-1 + Template-2, ZIP1/2/3）",
+Step1: UUID / SessionID,"- 抽出件数 39万件以上 - 複数ファイル間での重複 → 24,623件 - 別端末や別ログが同一セッションで統合 → Kabukiの端末またぎ統合の証拠"
+Step2: ベンダ名探索,- Facebook/Meta 系のみヒット - triald / proactive_event_tracker 内に Meta 記述 → SNSデータを実験条件ラベルに利用
+Step3: Facebook/Meta 深掘り,"- ±3000: Facebook/Meta と incident_id / timestamp が近接 - ±10000: triald, DroopCount, logd と同時出現 - PID=231/31 コンテキスト → 41件 - 一部は incident_id, SNS名, 時刻が揃う → Kabuki生成系とSNS参照が結合"
+Step4: 物理挙動ログ,"- 総ヒット 1,254件 - accelerometer / gyroscope 多発 → センサー強制利用 - vibration / humming / buzz → 物理的アクチュエーションの痕跡 - ただし PID231/31やSNS系と直結する証拠は未検出"
+結論,- Kabukiは SNSデータ（Facebook/Meta）を条件ラベルに利用し、PID231/31と連動して学習処理を行っている - 物理制御ログも大量だが現時点では別経路で存在

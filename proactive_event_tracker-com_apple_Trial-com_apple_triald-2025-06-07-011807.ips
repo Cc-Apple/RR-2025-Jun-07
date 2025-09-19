@@ -1,0 +1,11308 @@
+{"bug_type":"303","timestamp":"2025-06-07 01:18:07.00 +0700","os_version":"iPhone OS 18.4.1 (22E252)","roots_installed":0,"incident_id":"F6D869E0-CD19-40EE-A655-7D337793AAB7"}
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "4A9EF385-4386-4FE1-AF2A-8170101AE0C9"
+  3 {
+    1: 1748375010
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748374918
+    2: 25200
+    3: 0
+  }
+  5: 224
+}
+2: "BC5D5356-5FD8-488F-907A-0A8DEA082F3C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  5 {
+    1: "allows_cellular_download"
+    3: 1
+  }
+  6 {
+    4 {
+      1: "5ffde50ce2aacd000d47a95f"
+      2: "empty"
+      4: "6823847046f97d5b03a04495"
+    }
+    6: "TRIFetchFactorPackSetTask"
+    11: "240000470"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "4A9EF385-4386-4FE1-AF2A-8170101AE0C9"
+  3 {
+    1: 1748375014
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748374918
+    2: 25200
+    3: 0
+  }
+  5: 225
+}
+2: "4549180A-2CB4-4884-A9AA-F783FFC6F707"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  5 {
+    1: "allows_cellular_download"
+    3: 1
+  }
+  6 {
+    4 {
+      1: "648cada15dbc71671bb3aa1b"
+      2: "ea0ca16e-8dd9-43cf-b655-2c4c61196501"
+      4: "65aaec0c0263a721d8d07ebd"
+      5: 1
+    }
+    6: "TRIFetchFactorPackSetTask"
+    11: "240000116"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "4A9EF385-4386-4FE1-AF2A-8170101AE0C9"
+  3 {
+    1: 1748375015
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748374918
+    2: 25200
+    3: 0
+  }
+  5: 226
+}
+2: "3D3586A0-4571-4357-A488-FCC8DAFE89A9"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_DE"
+  }
+  6 {
+    4 {
+      1: "601074e4af9bef000c169ea8"
+      2: "5d2680cc-e999-489e-a3e2-0c39f10cbe27"
+      4: "6830a5f68e0ed70083453089"
+    }
+    11: "240004484"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "4A9EF385-4386-4FE1-AF2A-8170101AE0C9"
+  3 {
+    1: 1748375019
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748374918
+    2: 25200
+    3: 0
+  }
+  5: 227
+}
+2: "B3F702DC-AB48-4FB7-8A2C-3A6622A8C200"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_AC"
+  }
+  6 {
+    4 {
+      1: "601074e4af9bef000c169ea8"
+      2: "137e5f08-1771-4b37-ab81-55c4a70a877a"
+      4: "68349a7f2c2ae30e2f38d3ca"
+    }
+    11: "240004488"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "4A9EF385-4386-4FE1-AF2A-8170101AE0C9"
+  3 {
+    1: 1748375019
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748374918
+    2: 25200
+    3: 0
+  }
+  5: 228
+}
+2: "7CB44480-EF64-4302-A780-AD6D345C6A4B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    4 {
+      1: "601074e4af9bef000c169ea8"
+      2: "137e5f08-1771-4b37-ab81-55c4a70a877a"
+      4: "68349a7f2c2ae30e2f38d3ca"
+      5: 0
+    }
+    6: "TRIActivateTargetedRolloutDeploymentTask"
+    11: "240004488"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375055
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 229
+}
+2: "0D2A8529-8F5B-41A3-BAFD-25DB3B53AC23"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    6: "TRIRetargetAllTask"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375076
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 230
+}
+2: "C880292B-3E50-44D1-BC34-63302510084D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "activeDeviceExperiments"
+    3: 2
+  }
+  5 {
+    1: "activeServerExperiments"
+    3: 0
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375076
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 231
+}
+2: "9289F547-FE15-440C-8FCF-6966D5C8358B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    6: "TRIMaintenanceTask"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 232
+}
+2: "264B7A95-8A56-4037-9F73-9B9C0C8129DD"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "662152ede2d11d1408c4db33"
+    }
+    6: "TRITargetingTask"
+    11: "400000017"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 233
+}
+2: "70D215FD-FB29-405C-BEEB-BDA4824DF138"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "66fd9f31cf6bd467a8e25b4b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 234
+}
+2: "AF8DD39B-6194-4A3E-8A07-6CBFA81CDCA3"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "661dbaa13ba68e09063bce5d"
+    }
+    6: "TRITargetingTask"
+    11: "400000006"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 235
+}
+2: "E1B40675-664E-43A5-A253-F7705B0FD378"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "671a8df47bb1535297518cfe"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 236
+}
+2: "B9640EDC-FA68-45BA-A464-D1C338670082"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6717fd66aeef524036a5d247"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 237
+}
+2: "45E47FCF-6BA4-4D66-815D-4836B04626CC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "671a8ced7bb1535297518cfa"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 238
+}
+2: "FC05C704-38B2-4783-9678-37E3BC16DCA4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "671a8d4d7bb1535297518cfb"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375077
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 239
+}
+2: "DBBB770B-C42E-40FD-B65F-7395689CD50E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "65835bc103dc58766bab2d27"
+    }
+    6: "TRITargetingTask"
+    11: "400000012"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 240
+}
+2: "32474787-DE61-461D-A184-B34111436DD7"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6734d3d7001f4e52d2127a8d"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 241
+}
+2: "4E33A5FD-687F-4900-8225-A922A2AD5528"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6639bc6ba73d460582162323"
+    }
+    6: "TRITargetingTask"
+    11: "400000007"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 242
+}
+2: "B2678434-6197-4C6D-B4AB-B464886853F4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673b933fcc619c4e802b7f6b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 243
+}
+2: "BD4F0E54-10FC-48A4-9268-192861A5EE4E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672c24fb152bdb732a5b9227"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 244
+}
+2: "AD2BD295-D33F-4BCA-9A59-B7AB0B3797CC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672c1d2228b1db16efa0d742"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 245
+}
+2: "865795DD-FB6E-48FB-BCD8-3C8684CB5C85"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672e967098909f26a8161947"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 246
+}
+2: "759B4248-53EE-484B-946E-DB7B1F3E734C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6750caf933da016d3f8bad46"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 247
+}
+2: "5B4B9AB3-03D3-4655-9227-E63F046D8EEE"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67523d6820f66552fb6ed3d0"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 248
+}
+2: "16B18EDF-D02B-47E5-B0FD-1CF09817AAED"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673fe8dd83544a320365f09b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 249
+}
+2: "85345F44-1C14-4CE7-AD83-C6E6A988AED5"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6757787561f50768b7971d83"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 250
+}
+2: "6E71FE1E-256E-4AB7-90F9-E0E6309F4E1D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67577a79a49ead2c9b84cc70"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 251
+}
+2: "BF2EB380-F469-400F-B517-F914F8FE7358"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6757acbd61f50768b7971d8c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 252
+}
+2: "D708D4ED-2795-4A3A-A133-CB22851868F6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672e967098909f26a8161947"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 253
+}
+2: "A6E2EA51-668C-4C39-B0D5-E8AF4D54DBFF"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6759965a4478361402fe5328"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 254
+}
+2: "9EEDBA35-9001-4063-8ECA-13222A3D6986"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "675a4547f360a80fa026d800"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 255
+}
+2: "875B64ED-1FBA-48AC-9785-43C9DF94B6B2"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "675a517aa88c1117af87b7d6"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 256
+}
+2: "2B9C6A98-14D6-46AD-9DEF-C728FA0A40A4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6761d2cbec19df3a4b5dca05"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 257
+}
+2: "5E3504D1-1C78-4DE2-8B2E-E9368E7959B7"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67630e84df60af01adb25109"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 258
+}
+2: "987BE74D-131C-44C8-B219-836A980B6F70"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "654a99b51c6fd434e2089331"
+    }
+    6: "TRITargetingTask"
+    11: "400000009"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 259
+}
+2: "72322610-3E4F-414C-B60C-ED3CA8534202"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781e170d9dab37a8461e90"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 260
+}
+2: "4CA6EE93-BB53-4423-A16D-C550982F1281"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781f516f12da645f675b5c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 261
+}
+2: "0EF5B523-3890-44D0-9223-0274E052B235"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "677dcb819d6e1d6ece2024a4"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 262
+}
+2: "8F8D62D3-E13D-483C-8B29-F372DC078E1D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "677dd6f39d6e1d6ece2024a7"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 263
+}
+2: "86E049C4-A308-42F5-A94B-D207EE0B0772"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6776ce612a3f840ad5a6ba05"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 264
+}
+2: "5A3F7CDF-2CC2-4CDD-B0FC-F8F6937D8BE5"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6780981b84faeb5b9310b6fb"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 265
+}
+2: "A8F37B13-53F9-48FD-A80A-91FDD98154A8"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "650b33afe0eb850b39e956f3"
+    }
+    6: "TRITargetingTask"
+    11: "400000009"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 266
+}
+2: "2C89FA4E-DC3E-48D1-95D5-432DD3F8E5B0"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6786cc684ebe024683e5a9da"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 267
+}
+2: "18A9056D-0107-4BC0-9EEC-E29525F2423D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6786ce8ab5829619c4a2a5a4"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 268
+}
+2: "94360CB8-6E8D-4C5A-88DB-9297DC52E275"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67871bc1b2191100987089ee"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 269
+}
+2: "5C8B1559-964C-45F1-8D3F-FEA66C0BFC08"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "678759914ebe024683e5a9ee"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 270
+}
+2: "0CC2BD55-6C90-43A2-8007-F329DDF4A6B5"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781e170d9dab37a8461e90"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 271
+}
+2: "28EE9833-DC9A-4B77-8779-D135BDDF53CE"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781f516f12da645f675b5c"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375078
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 272
+}
+2: "39A3E3E5-0709-43FF-9265-30D8516E5895"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6705935d3e0a9c63a461932b"
+    }
+    6: "TRITargetingTask"
+    11: "400000011"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 273
+}
+2: "266BDAD4-C680-459C-AE53-8E0C891EFD53"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672d06bb28b1db16efa0d74e"
+    }
+    6: "TRITargetingTask"
+    11: "400000007"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 274
+}
+2: "005FFF7F-D74B-449F-9136-07E3162316CF"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "679a086471e8535c73886e7d"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 275
+}
+2: "543F9741-666A-40B6-8FC4-0E09E63A6D1A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "679a0eb099f6242eeccdd35c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 276
+}
+2: "29DF6E38-0DF0-4595-8C44-C869AEAAA6DD"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67a0f485f877c042e9211566"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 277
+}
+2: "0D854B47-1350-4F76-8B61-A6A58F4C13C4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6758edb661f50768b7971da7"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 278
+}
+2: "8BC96292-988C-4B42-AFD1-4FDD4FDFDD4C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67a5172b6865c0197e453ff0"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 279
+}
+2: "EB8AC29B-3FAE-42AD-AB0A-D425BEEBE548"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "661dbaa13ba68e09063bce5d"
+    }
+    6: "TRITargetingTask"
+    11: "400000008"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 280
+}
+2: "38BAEAD6-EE96-424A-91F0-4752E29BF539"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67ae60daef16a45ca123765a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 281
+}
+2: "68A9DA24-E701-41D3-8545-3EE9E52170D2"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 282
+}
+2: "ED67A146-B819-4213-AAB6-B2DC5FB2DC04"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 283
+}
+2: "95188080-491F-49FF-9E02-1F7A88CBE2D3"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 284
+}
+2: "0913C61D-B607-4A24-8071-02274037C6D7"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67b91cfa213fff22c33c3e3b"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 285
+}
+2: "181092FB-1BFF-49CF-BD2B-8C197F2CFAAF"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67bbdee2a5e08415af0d63e0"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 286
+}
+2: "46D46496-DC0D-46C0-B255-638BAE730141"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 287
+}
+2: "86980E52-705B-4735-9920-CC93C91D5611"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000006"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 288
+}
+2: "02D644E4-CB45-45B1-A67D-538117ECEFCA"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6758edb661f50768b7971da7"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 289
+}
+2: "FBE7702B-C7B1-4136-A817-AA435FA5E201"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000006"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 290
+}
+2: "6A083DD2-0993-40A0-ACCA-61BB0E470CD6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67be77fa3c8c65354225e849"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 291
+}
+2: "F1289B70-EEA5-4E50-B395-76A8131F772C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67be7deb213fff22c33c3e7e"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 292
+}
+2: "1CC33590-822C-47D9-92D0-1C24C01DAB00"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67c5e6fc9d255f5cc328bb9a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 293
+}
+2: "C3EB3607-C976-4D42-9462-E174CF5D7C7C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67c6241f6e597056cb5c94d7"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 294
+}
+2: "CE79C295-0E29-4ABF-BA8E-7AEEA2B1BCF5"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67c62728791d8a68e42f8b83"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 295
+}
+2: "F89160BB-8A3E-45D0-9DDA-E7F0C5335479"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67cf8ce544f1a3655d87001a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 296
+}
+2: "D6540E83-B86D-4519-8187-B9CB52ADE4CA"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67d4a6fb140a4b007eb92e29"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 297
+}
+2: "4E467346-4D85-4CBD-86EB-71CFC8D5D28E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000008"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 298
+}
+2: "2C114D7B-83A9-46B2-8649-78473748EC60"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67dc791f1bde7e6689372a5b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 299
+}
+2: "E0361584-9E73-478F-AFFF-B9B660EFCF38"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e5b486c9b18d1a9f5f78ea"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 300
+}
+2: "900279E5-E145-4A79-8A2A-3D3F03806F38"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e94cf848d92d5921bb6c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 301
+}
+2: "3E30F148-4D01-4C74-9077-47BD2C2C155F"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e9771bde7e6689372a94"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 302
+}
+2: "17BDF88F-F693-4FDE-AD82-8EFE2810A5B7"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e9ab756be868d6a1323a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 303
+}
+2: "9EAAEBB3-A65E-45FB-A084-06188A5091E6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e9c4f470dc0e83d9e13c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 304
+}
+2: "56542F2B-1B79-4EF5-8D2F-6E25236D78AD"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2ea05756be868d6a1323b"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 305
+}
+2: "EB8EAB65-3316-4AD0-AB32-C231153EBB02"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f45465b1ea9f1f114b8d07"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375079
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 306
+}
+2: "F2F2105C-B4E8-4787-B564-47787625C7E0"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f45ef77ad60b495941f126"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 307
+}
+2: "BE69BCA0-52A1-428B-A038-13288BBC3664"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46154b305bf06bf5423e1"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 308
+}
+2: "9519F8DB-755A-4F1B-82D4-A0D37E88ECB3"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f4624d73932228c9baf267"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 309
+}
+2: "843B9022-9B82-46E7-819D-C061180AC5ED"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f4675b73932228c9baf269"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 310
+}
+2: "44D67300-0530-480F-A7BA-E08A08233D9C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46877b1ea9f1f114b8d0b"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 311
+}
+2: "9FFD2B82-9D8D-435F-BA29-7B3C47358E0D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f4692f84eaf455d73c6090"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 312
+}
+2: "CF3EFFF1-8A08-4263-86FF-817B62A5541B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f469f384eaf455d73c6092"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 313
+}
+2: "E48AC7B2-9A6D-4133-831D-E92AAA4D15D9"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46b1a73932228c9baf274"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 314
+}
+2: "46745080-A756-4DBB-A5EA-79F897A46672"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46bbc84eaf455d73c6098"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 315
+}
+2: "7AC59B42-0FEC-472D-83ED-2025770C055A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46e2984eaf455d73c609a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 316
+}
+2: "BB4D1B93-0025-4D04-B6DD-7FC9B6077E79"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673c272726c1270f5a9ef58e"
+    }
+    6: "TRITargetingTask"
+    11: "400000014"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 317
+}
+2: "4B5AFFDD-9B2C-43C3-8C8C-60FABC19AC9D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673c228114f8311522106782"
+    }
+    6: "TRITargetingTask"
+    11: "400000011"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 318
+}
+2: "5BC95648-8E8E-44F5-BB6A-BF745632E0ED"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67dcad031bde7e6689372a6e"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 319
+}
+2: "5C4F487B-D708-409C-9AAA-5325184F278A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67dcac5d1bde7e6689372a6d"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 320
+}
+2: "7F2D37D3-1ADB-4EC8-9F1D-57C7818EC458"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6705935d3e0a9c63a461932b"
+    }
+    6: "TRITargetingTask"
+    11: "400000015"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 321
+}
+2: "170DDC87-74D6-453C-9633-C820F0D82A73"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673e2408001f4e52d2127b15"
+    }
+    6: "TRITargetingTask"
+    11: "400000012"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 322
+}
+2: "BE65B43C-07D3-4094-ADE7-36B7FA899D18"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67fec48924aef30833594028"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 323
+}
+2: "6FA0D8F2-64B2-4DF6-A903-F8C5FAF1C734"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67d4aeee6b824c157c99331d"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 324
+}
+2: "85F4612F-F127-4562-B722-E5E115A0AF24"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673c272726c1270f5a9ef58e"
+    }
+    6: "TRITargetingTask"
+    11: "400000015"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 325
+}
+2: "88DFD756-6B01-4D6A-A477-E340CC063DE1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000012"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 326
+}
+2: "72633198-ABB3-4DF2-93A8-4A6FEDCC25C1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000009"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 327
+}
+2: "A943DE72-98DE-4F0B-A996-BE6D7F7FE635"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6826e650cb157925f1edadd0"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 328
+}
+2: "0B355C46-C3ED-4A34-8006-DDE16A9600F1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "682c2983d6eea2229620be5a"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 329
+}
+2: "59673A88-9A8D-4F68-AD6C-3961DE666008"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "682afa1d9e298f403d1e2da2"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "6FF51CC8-7232-429A-8808-8A0F118B4CF2"
+  3 {
+    1: 1748375080
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375021
+    2: 25200
+    3: 0
+  }
+  5: 330
+}
+2: "FD74E6A5-C875-4B9C-AB1B-4CCC158B770E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "682afc9acb157925f1edadf1"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 331
+}
+2: "2755B263-A2D0-476A-AE62-7E6F777DE80E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  5 {
+    1: "allows_cellular_download"
+    3: 1
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      4: "68388e00105a434643243fb1"
+    }
+    6: "TRIFetchSingleRolloutNotificationTask"
+    11: "240003533"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 332
+}
+2: "97593997-9C3F-4FCC-B05F-58C0004E25BC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_AL_O"
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "0ca31386-aaea-4c26-a43e-f7c8963f7b50"
+      4: "68349981105a434643243f85"
+    }
+    11: "240003523"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 333
+}
+2: "93A0AC8C-EDDA-4CF8-9D8B-B65FB5B0BF27"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_AL"
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "19e8eca0-16f9-41d2-80bf-8ea5282b879e"
+      4: "68388e00105a434643243fb1"
+    }
+    11: "240003533"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 334
+}
+2: "4460E1A9-61FB-498E-8464-4B8B867A1A78"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  5 {
+    1: "trigger_event"
+    4: "hotfix"
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "19e8eca0-16f9-41d2-80bf-8ea5282b879e"
+      4: "68388e00105a434643243fb1"
+      5: 0
+    }
+    6: "TRIRolloutTargetingTask"
+    11: "240003533"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 335
+}
+2: "15E3E987-CCE1-47A7-9287-0D4633C69746"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_FE"
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "19e8eca0-16f9-41d2-80bf-8ea5282b879e"
+      4: "68388e00105a434643243fb1"
+    }
+    11: "240003533"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 336
+}
+2: "37B32D94-C1A4-4DFB-B9A6-3D26BE12E2F0"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  5 {
+    1: "allows_cellular_download"
+    3: 1
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "19e8eca0-16f9-41d2-80bf-8ea5282b879e"
+      4: "68388e00105a434643243fb1"
+      5: 0
+    }
+    6: "TRIFetchFactorPackSetTask"
+    11: "240003533"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542540
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 337
+}
+2: "DF55C3B7-CAA6-43C2-A84C-D01B88719AB1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_DE"
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "0ca31386-aaea-4c26-a43e-f7c8963f7b50"
+      4: "68349981105a434643243f85"
+    }
+    11: "240003523"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542541
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 338
+}
+2: "64972366-149D-4DEC-9759-CA90133F05CA"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_AC"
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "19e8eca0-16f9-41d2-80bf-8ea5282b879e"
+      4: "68388e00105a434643243fb1"
+    }
+    11: "240003533"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "43FC3639-1BE2-4C96-804A-D50F825CCFC1"
+  3 {
+    1: 1748542541
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1748375082
+    2: 25200
+    3: 0
+  }
+  5: 339
+}
+2: "90BB6ABE-F357-4597-84AB-5DC4068626C6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    4 {
+      1: "6081ed9716bb6d61d81d5014"
+      2: "19e8eca0-16f9-41d2-80bf-8ea5282b879e"
+      4: "68388e00105a434643243fb1"
+      5: 0
+    }
+    6: "TRIActivateTargetedRolloutDeploymentTask"
+    11: "240003533"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192180
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 1
+}
+2: "5B8A74DD-10CB-4CE1-835E-423FF2A6A902"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    6: "TRIRetargetAllTask"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 2
+}
+2: "F2FE5853-E6D8-4412-959B-7527C55D24CE"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "662152ede2d11d1408c4db33"
+    }
+    6: "TRITargetingTask"
+    11: "400000017"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 3
+}
+2: "B8869E00-AA23-4270-B3C8-8265A13F0EAC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "66fd9f31cf6bd467a8e25b4b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 4
+}
+2: "303346F3-E345-4628-9205-79560A7C7BB4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "661dbaa13ba68e09063bce5d"
+    }
+    6: "TRITargetingTask"
+    11: "400000006"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 5
+}
+2: "0167004B-5F6E-4606-821E-D208E2FCB555"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "671a8df47bb1535297518cfe"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 6
+}
+2: "FA6BBAC4-5A36-4633-BF89-D3382AB0F3BC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6717fd66aeef524036a5d247"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 7
+}
+2: "3AB014C3-245F-4B2F-86CF-733AE4506FB3"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "671a8ced7bb1535297518cfa"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 8
+}
+2: "094F6406-FFBC-49E0-9405-778AEF8D8250"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "671a8d4d7bb1535297518cfb"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 9
+}
+2: "D6F7077D-B167-471C-9398-35444DCD0078"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "65835bc103dc58766bab2d27"
+    }
+    6: "TRITargetingTask"
+    11: "400000012"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 10
+}
+2: "EF4B2CBA-6DE2-4933-B482-CA404211A57E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6734d3d7001f4e52d2127a8d"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 11
+}
+2: "2CDE33C8-F674-49D5-8C0E-751F16E96A5E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6639bc6ba73d460582162323"
+    }
+    6: "TRITargetingTask"
+    11: "400000007"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 12
+}
+2: "2CAD445E-6BB9-4A99-898E-B894475B33A2"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673b933fcc619c4e802b7f6b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 13
+}
+2: "D967ED3B-FE6F-45F0-B903-627BB2A125AB"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672c24fb152bdb732a5b9227"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 14
+}
+2: "314A0825-CA87-45AB-BB3B-046B9601359C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672c1d2228b1db16efa0d742"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 15
+}
+2: "264145A8-C9AE-4766-ABBB-FA853C8B1DE8"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672e967098909f26a8161947"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 16
+}
+2: "7955D39C-E60F-494D-95A2-A41EF7F86022"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6750caf933da016d3f8bad46"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 17
+}
+2: "0AB865B8-6922-4ED2-9E58-821CCB8F576D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67523d6820f66552fb6ed3d0"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 18
+}
+2: "B5EC736A-E7A3-42A2-A352-286C549A4A6C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673fe8dd83544a320365f09b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 19
+}
+2: "59C7A1B5-43F0-4217-B0F6-B517EEE2014F"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6757787561f50768b7971d83"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 20
+}
+2: "D9860101-E155-4764-BC25-F37B2975AF98"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67577a79a49ead2c9b84cc70"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 21
+}
+2: "8F8F5CEA-EE05-44B7-A3B9-7C9A1C8E7BFC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6757acbd61f50768b7971d8c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 22
+}
+2: "59EF6327-3B45-4CE9-8EFD-C474279F961B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672e967098909f26a8161947"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 23
+}
+2: "63A5D3D7-78A3-45C9-9019-EDFBCF2E8158"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6759965a4478361402fe5328"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 24
+}
+2: "2CFE4935-808C-4D2F-A84B-0EA19D219ADC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "675a4547f360a80fa026d800"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 25
+}
+2: "D619573B-B9C0-4098-B6DB-B8F4334F9F21"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "675a517aa88c1117af87b7d6"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 26
+}
+2: "93D8D1FB-A50F-4199-AB73-27D7F00A23BA"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6761d2cbec19df3a4b5dca05"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 27
+}
+2: "8F5C854E-F632-4C3E-80B1-4C6C17DAC32A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67630e84df60af01adb25109"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 28
+}
+2: "DDB70A45-5064-4486-A226-EF20BA34B6FC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "654a99b51c6fd434e2089331"
+    }
+    6: "TRITargetingTask"
+    11: "400000009"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 29
+}
+2: "B1FA0C71-C01F-4EAA-AF73-F4A127AC506D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781e170d9dab37a8461e90"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 30
+}
+2: "F7D3748C-44D2-4CCD-863F-201D9F9EA4E4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781f516f12da645f675b5c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 31
+}
+2: "9CD28049-ACE8-428A-9524-809B8B53080B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "677dcb819d6e1d6ece2024a4"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 32
+}
+2: "B83FEE19-6F52-4116-864E-8980AD844110"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "677dd6f39d6e1d6ece2024a7"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 33
+}
+2: "E736D4FC-1C48-48DC-BDEC-18C1DCA61313"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6776ce612a3f840ad5a6ba05"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 34
+}
+2: "FABF8276-BBAB-4E87-8CCD-3797DE901AD7"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6780981b84faeb5b9310b6fb"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 35
+}
+2: "E178DB32-364F-48A2-A290-7831E23C49E9"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "650b33afe0eb850b39e956f3"
+    }
+    6: "TRITargetingTask"
+    11: "400000009"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 36
+}
+2: "090ACACE-6578-4FA4-9AAA-9B3237B3BC42"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6786cc684ebe024683e5a9da"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 37
+}
+2: "4B264CE4-A417-4BF7-B8B0-132151A1D2B4"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6786ce8ab5829619c4a2a5a4"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 38
+}
+2: "F156062B-9C02-4851-839F-55BF3A10BDAB"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67871bc1b2191100987089ee"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192182
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 39
+}
+2: "DEE889D9-4668-418A-8D17-748490B2005E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "678759914ebe024683e5a9ee"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 40
+}
+2: "2B72A4B1-D01B-414E-9C4A-4D56FD2005A2"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781e170d9dab37a8461e90"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 41
+}
+2: "4A8E7FCB-5FFD-46CA-8E2B-F0DA3529F398"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67781f516f12da645f675b5c"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 42
+}
+2: "78FAB7F6-7736-4628-82B1-7C9FAADF89AD"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6705935d3e0a9c63a461932b"
+    }
+    6: "TRITargetingTask"
+    11: "400000011"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 43
+}
+2: "9A29A676-7CA9-47E1-AD1B-705C9EDB5C63"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "672d06bb28b1db16efa0d74e"
+    }
+    6: "TRITargetingTask"
+    11: "400000007"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 44
+}
+2: "FB87CBBC-EBAA-4B87-8D00-02CD2A7EE60F"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "679a086471e8535c73886e7d"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 45
+}
+2: "1D52A5A7-7CD9-464E-BF7E-74C4A68D42DF"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "679a0eb099f6242eeccdd35c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 46
+}
+2: "DBAF61B7-03F9-4D04-B4E9-930C28583312"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67a0f485f877c042e9211566"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 47
+}
+2: "B6AE8F88-A633-43D5-9676-593B6F866B3E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6758edb661f50768b7971da7"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 48
+}
+2: "620858DE-3B72-4E6B-B57B-0C7E34A7EBFD"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67a5172b6865c0197e453ff0"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 49
+}
+2: "81374BB7-E3A8-42B0-AF71-7BCDD105B17A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "661dbaa13ba68e09063bce5d"
+    }
+    6: "TRITargetingTask"
+    11: "400000008"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 50
+}
+2: "6D45E01A-BB30-4090-B172-1C2F6B131494"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67ae60daef16a45ca123765a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 51
+}
+2: "3D40D660-4888-4F1A-B9CC-E682D8EAA1A6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 52
+}
+2: "B7972CB4-F68D-4587-A1A3-A286A6F570EB"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 53
+}
+2: "CEF26ACB-1B45-4864-A5AB-F9B6044044F1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 54
+}
+2: "6EA5F2E9-750C-4488-A582-B255125D50CF"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67b91cfa213fff22c33c3e3b"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 55
+}
+2: "DB904F19-E7E5-4CFE-A0AE-DE20056C34F1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67bbdee2a5e08415af0d63e0"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 56
+}
+2: "0D28ACDB-7823-40E2-8F9B-90765A7CCE56"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 57
+}
+2: "30008A5D-E0CA-4EC2-B1E4-E4BC79D79A3D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000006"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 58
+}
+2: "A4005656-4E80-4734-B79D-A56C79438460"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6758edb661f50768b7971da7"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 59
+}
+2: "91C4B7C1-1EDD-4205-9C30-0BAD13F0AB04"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000006"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 60
+}
+2: "F720999A-289F-40E9-9548-C24BB7DA7436"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67be77fa3c8c65354225e849"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 61
+}
+2: "705D85D7-552E-4560-9A28-0C7E9AF8836A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67be7deb213fff22c33c3e7e"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 62
+}
+2: "F0035F1B-B2FC-490F-80DE-99FC026511AF"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67c5e6fc9d255f5cc328bb9a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 63
+}
+2: "DB5339E7-00E2-4F30-9C46-06798962F9EA"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67c6241f6e597056cb5c94d7"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 64
+}
+2: "8D8E27A0-71EB-4F81-9BDF-E6F22BD3B852"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67c62728791d8a68e42f8b83"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 65
+}
+2: "069E9302-C960-4E60-BB8A-F89DDC66F9AB"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67cf8ce544f1a3655d87001a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 66
+}
+2: "223F4482-9D1B-43F7-AC11-5DFED9F973EC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67d4a6fb140a4b007eb92e29"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 67
+}
+2: "20AADBE7-8B7D-4C80-A569-8F540533AC43"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000008"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 68
+}
+2: "5B2FABBA-5A3B-4A46-A3B0-62628701E36B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67dc791f1bde7e6689372a5b"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 69
+}
+2: "1290C310-72F0-4C13-AF40-D0E07D443EC6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e5b486c9b18d1a9f5f78ea"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 70
+}
+2: "98AFE15E-4685-43F7-A40F-BC230C337F84"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e94cf848d92d5921bb6c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 71
+}
+2: "20E37619-41A4-481F-8B17-77A40728273B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e9771bde7e6689372a94"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 72
+}
+2: "38D4C8B8-25FA-4DA3-BC02-0CC7B3DB7905"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e9ab756be868d6a1323a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 73
+}
+2: "3AE7F0EA-19F9-4B13-80B2-640ACB4C055C"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2e9c4f470dc0e83d9e13c"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 74
+}
+2: "7BA07E8C-35FB-4952-946D-4B848717D6FC"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67e2ea05756be868d6a1323b"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 75
+}
+2: "90EBF34E-9C39-42C9-B49C-24106ED1A957"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f45465b1ea9f1f114b8d07"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 76
+}
+2: "36734564-1AAA-47D7-B263-290E7EACA6CD"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f45ef77ad60b495941f126"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 77
+}
+2: "40901E26-A887-4CA2-B261-89260D0A09AB"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46154b305bf06bf5423e1"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 78
+}
+2: "226C7424-9341-483D-93BA-15A69F170EC8"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f4624d73932228c9baf267"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 79
+}
+2: "09FA35C4-18BE-43ED-A423-5F5DEB045D45"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f4675b73932228c9baf269"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 80
+}
+2: "0A7AA8E4-EF28-4736-9662-B577A41FE89E"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46877b1ea9f1f114b8d0b"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 81
+}
+2: "10C975AD-7E52-4941-AB6C-357E53501D58"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f4692f84eaf455d73c6090"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 82
+}
+2: "18702822-C359-4D2E-B3CB-B025D14F0F3D"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f469f384eaf455d73c6092"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 83
+}
+2: "6698E690-5AC7-4252-B953-60D58BC27076"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46b1a73932228c9baf274"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 84
+}
+2: "0446AF96-2F97-4D08-8AB1-DE16B9E0E9B0"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46bbc84eaf455d73c6098"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 85
+}
+2: "059BD0AA-4224-4F09-8F68-09BEBF3B5421"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67f46e2984eaf455d73c609a"
+    }
+    6: "TRITargetingTask"
+    11: "400000001"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 86
+}
+2: "85C7F315-62BB-4CD8-85AD-6DBEB9D19490"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673c272726c1270f5a9ef58e"
+    }
+    6: "TRITargetingTask"
+    11: "400000014"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 87
+}
+2: "DC95A42E-0459-4F52-947D-12CB79BC7614"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673c228114f8311522106782"
+    }
+    6: "TRITargetingTask"
+    11: "400000011"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 88
+}
+2: "3E3BBA80-D8FB-427A-88F4-3C6EC51E8816"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67dcad031bde7e6689372a6e"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 89
+}
+2: "120EE418-2809-48C6-8C54-D7755CAAC9C6"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67dcac5d1bde7e6689372a6d"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 90
+}
+2: "B5805277-0ACF-4558-9CF5-8BE86EB7BE2B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6705935d3e0a9c63a461932b"
+    }
+    6: "TRITargetingTask"
+    11: "400000015"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 91
+}
+2: "F6374426-CF58-468E-BE50-DDF140CA5D79"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673e2408001f4e52d2127b15"
+    }
+    6: "TRITargetingTask"
+    11: "400000012"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 92
+}
+2: "9411E89C-C26D-459A-A9C9-627ECC5DCC83"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67fec48924aef30833594028"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 93
+}
+2: "04A58780-0CE6-4A8D-BB82-DA06A3AD3784"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "67d4aeee6b824c157c99331d"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 94
+}
+2: "33235CA4-5BFA-4D0F-91AD-E120A7E520E2"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "673c272726c1270f5a9ef58e"
+    }
+    6: "TRITargetingTask"
+    11: "400000015"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 95
+}
+2: "B7D5FF7A-3121-408C-ADFB-B5A655FD70A1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b283afc7c17197d69eec"
+    }
+    6: "TRITargetingTask"
+    11: "400000012"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 96
+}
+2: "52A901A6-52AA-4F7F-B34E-8C6864DA5F42"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6685b5584477001000e8c6c9"
+    }
+    6: "TRITargetingTask"
+    11: "400000009"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 97
+}
+2: "5ACDC838-A40C-4C76-929F-5F721B6FD2B1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "6826e650cb157925f1edadd0"
+    }
+    6: "TRITargetingTask"
+    11: "400000002"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 98
+}
+2: "838466F0-222F-4BE6-BBB0-E62EA2F73AD5"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "682c2983d6eea2229620be5a"
+    }
+    6: "TRITargetingTask"
+    11: "400000003"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 99
+}
+2: "CB158B3D-2559-4ABC-96FF-7F1B7D889A8B"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "682afa1d9e298f403d1e2da2"
+    }
+    6: "TRITargetingTask"
+    11: "400000005"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 100
+}
+2: "170D296E-CB23-4173-8BD1-0BD1CF0013A1"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  6 {
+    3 {
+      1: "682afc9acb157925f1edadf1"
+    }
+    6: "TRITargetingTask"
+    11: "400000004"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 101
+}
+2: "635644C9-5374-451C-B26D-715457DA300A"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    14: "h13"
+  }
+  5 {
+    1: "roll_st_AL"
+  }
+  6 {
+    4 {
+      1: "64c025b28b7f0e739e4fbe58"
+      2: "empty-fp-set"
+      4: "680018aad0d8002f133ba741"
+    }
+    11: "240000041"
+  }
+}
+
+Message Group: com.apple.Trial-com.apple.triald
+Message Name: TRILogEvent
+Message Type: 984eb588
+Message Body:
+1 {
+  1: 1
+  2: "1E1B1E53-33B1-4AD6-B6DA-D13E03CE31C5"
+  3 {
+    1: 1749192183
+    2: 25200
+    3: 0
+  }
+  4 {
+    1: 1749192064
+    2: 25200
+    3: 0
+  }
+  5: 102
+}
+2: "452EB52E-9EDC-4231-BF22-17F9E702D687"
+10 {
+  1 {
+    1: "1237B9D7-0085-2966-5219-C74A97D2CA91"
+  }
+  3 {
+    1: "iPad"
+    4: "TrialXP-429.20"
+    5: "22E252"
+    9: "ja-JP"
+    10: 5
+    11: ""
+    12: ""
+    13: 0
+    14: "h13"
+  }
+  5 {
+    1: "task_status"
+    3: 2
+  }
+  5 {
+    1: "trigger_event"
+    4: "routine-fetch"
+  }
+  6 {
+    4 {
+      1: "64c025b28b7f0e739e4fbe58"
+      2: "empty"
+      4: "680018aad0d8002f133ba741"
+    }
+    6: "TRIRolloutTargetingTask"
+    11: "240000041"
+    15 {
+      1: 2
+      2: 1
+    }
+  }
+}

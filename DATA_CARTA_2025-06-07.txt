@@ -1,0 +1,3 @@
+DATA_CARTA 2025-06-07 (auto)
+files_scanned=XX   ← 実際に走査したファイル総数
+events_full=YYY events_clean=ZZZ
